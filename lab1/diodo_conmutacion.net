@@ -1,5 +1,5 @@
 * C:\users\chesito\Mis Documentos\Documentos\potencia\lab1\diodo_conmutacion.asc
-V1 vi 0 SINE(0 1 60)
+V1 vi 0 SINE(0 9 60)
 R1 vo 0 1k
 D1 vi vo 1N4004
 .model D D
