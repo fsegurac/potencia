@@ -1,0 +1,2 @@
+# potencia
+laboratorios y demás
