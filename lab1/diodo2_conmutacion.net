@@ -1,0 +1,9 @@
+* C:\users\chesito\Mis Documentos\Documentos\potencia\lab1\diodo2_conmutacion.asc
+V1 vi 0 SINE(0 9 1MEG)
+R1 vo 0 1k pwr=0.5
+D1 vi vo 1N4148
+.model D D
+.lib C:\users\chesito\Mis Documentos\LTspiceXVII\lib\cmp\standard.dio
+.tran 0 2.5u 0 1u
+.backanno
+.end
